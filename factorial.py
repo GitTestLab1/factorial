@@ -22,7 +22,7 @@ def sum_factorial():
 
     result=sum(final_list)
 
-    print("Final SUM isis {}".format(result))
+    print("Final SUM isiss {}".format(result))
 
     return result
 
